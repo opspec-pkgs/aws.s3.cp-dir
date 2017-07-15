@@ -24,10 +24,10 @@ op:
   pkg: { ref: github.com/opspec-pkgs/aws.s3.cp-dir#VERSION }
   inputs: 
     srcS3URI:
-    dstS3URI
-    AWS_ACCESS_KEY_ID
-    AWS_SECRET_ACCESS_KEY
-    AWS_DEFAULT_REGION
+    dstS3URI:
+    AWS_ACCESS_KEY_ID:
+    AWS_SECRET_ACCESS_KEY:
+    AWS_DEFAULT_REGION:
 ```
 
 # Support
