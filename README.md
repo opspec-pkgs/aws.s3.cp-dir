@@ -34,6 +34,8 @@ op:
     dstS3Uri:
     accessKeyId:
     secretAccessKey:
+    # params w/ default
+    region:
 ```
 
 # Support
